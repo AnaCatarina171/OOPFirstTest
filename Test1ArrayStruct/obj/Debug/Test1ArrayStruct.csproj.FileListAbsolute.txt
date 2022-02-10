@@ -1,0 +1,10 @@
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\bin\Debug\Test1ArrayStruct.exe.config
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\bin\Debug\Test1ArrayStruct.exe
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\bin\Debug\Test1ArrayStruct.pdb
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.csproj.AssemblyReference.cache
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.Properties.Resources.resources
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.csproj.GenerateResource.cache
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.csproj.CoreCompileInputs.cache
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.exe
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayStruct.pdb
+C:\NBCC\Oriented_Object_Prog\test-1-AnaCatarina171\Test1ArrayStruct\Test1ArrayStruct\obj\Debug\Test1ArrayClass.frmTeaTime.resources
